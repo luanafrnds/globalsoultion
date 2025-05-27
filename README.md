@@ -1,8 +1,8 @@
 # Projeto Global Solution
 
-*INSTRUÇÕES DE USO*
+**INSTRUÇÕES DE USO**
 
-Este programa coleta informações sobre o tipo de desastre, o sistema também deve registrar o número total de pessoas impactadas.
+*Este programa coleta informações sobre o tipo de desastre, o sistema também deve registrar o número total de pessoas impactadas.*
 - Use um editor de código-fonte(ex: VS Code, PYCHARM)
 - Execute o arquivo
 - Digite os valores solicitados para cada categoria.
